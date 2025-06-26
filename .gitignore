@@ -1,0 +1,10 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+
+# Ignore environment config
+.env
+
+# Ignore test run files and OS stuff
+.DS_Store
+*.log
