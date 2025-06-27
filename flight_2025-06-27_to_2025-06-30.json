@@ -1,0 +1,1115 @@
+{
+  "search_metadata": {
+    "id": "685d822f0676dcb157a1bbac",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aa921819d7109aaa/685d822f0676dcb157a1bbac.json",
+    "created_at": "2025-06-26 17:23:59 UTC",
+    "processed_at": "2025-06-26 17:23:59 UTC",
+    "google_flights_url": "https://www.google.com/travel/flights?hl=en&gl=ca&curr=CAD&tfs=CBwQAhonEgoyMDI1LTA2LTI3agcIARIDWVlacgcIARIDQ0RHcgcIARIDTEhSGicSCjIwMjUtMDYtMzBqBwgBEgNDREdqBwgBEgNMSFJyBwgBEgNZWVpCAQFIAXABmAEB&tfu=EgIIAg",
+    "raw_html_file": "https://serpapi.com/searches/aa921819d7109aaa/685d822f0676dcb157a1bbac.html",
+    "prettify_html_file": "https://serpapi.com/searches/aa921819d7109aaa/685d822f0676dcb157a1bbac.prettify",
+    "total_time_taken": 7.67
+  },
+  "search_parameters": {
+    "engine": "google_flights",
+    "hl": "en",
+    "gl": "ca",
+    "type": "1",
+    "departure_id": "YYZ",
+    "arrival_id": "CDG,LHR",
+    "outbound_date": "2025-06-27",
+    "return_date": "2025-06-30",
+    "currency": "CAD",
+    "sort_by": "2"
+  },
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 18:20"
+          },
+          "arrival_airport": {
+            "name": "St. John's International Airport",
+            "id": "YYT",
+            "time": "2025-06-27 22:55"
+          },
+          "duration": 185,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "WestJet",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WS.png",
+          "travel_class": "Economy",
+          "flight_number": "WS 328",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 156 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "St. John's International Airport",
+            "id": "YYT",
+            "time": "2025-06-29 00:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-29 10:15"
+          },
+          "duration": 315,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "WestJet",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WS.png",
+          "travel_class": "Economy",
+          "flight_number": "WS 54",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 278 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 1535,
+          "name": "St. John's International Airport",
+          "id": "YYT"
+        }
+      ],
+      "total_duration": 2035,
+      "carbon_emissions": {
+        "this_flight": 435000
+      },
+      "price": 1236,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Full refund for cancellations",
+        "Free change, possible fare difference",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ3BYVXpNeU9IeFhVelUwR2dzSWpjVUhFQUlhQTBOQlJEZ2NjTGZFQlE9PSIsW1siWVlaIiwiMjAyNS0wNi0yNyIsIllZVCIsbnVsbCwiV1MiLCIzMjgiXSxbIllZVCIsIjIwMjUtMDYtMjkiLCJDREciLG51bGwsIldTIiwiNTQiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 18:00"
+          },
+          "arrival_airport": {
+            "name": "Montréal-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-27 19:20"
+          },
+          "duration": 80,
+          "airplane": "Airbus A321",
+          "airline": "Air Transat",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+          "travel_class": "Economy",
+          "flight_number": "TS 551",
+          "ticket_also_sold_by": [
+            "Porter Airlines"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 72 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Montréal-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-27 21:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 10:20"
+          },
+          "duration": 410,
+          "airplane": "Airbus A330",
+          "airline": "Air Transat",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+          "travel_class": "Economy",
+          "flight_number": "TS 110",
+          "ticket_also_sold_by": [
+            "Porter Airlines"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 344 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 130,
+          "name": "Montréal-Pierre Elliott Trudeau International Airport",
+          "id": "YUL"
+        }
+      ],
+      "total_duration": 620,
+      "carbon_emissions": {
+        "this_flight": 417000
+      },
+      "price": 1410,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Full refund for cancellations",
+        "Free change, possible fare difference",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ3RVVXpVMU1YeFVVekV4TUJvTENQSE1DQkFDR2dORFFVUTRISENOcUFZPSIsW1siWVlaIiwiMjAyNS0wNi0yNyIsIllVTCIsbnVsbCwiVFMiLCI1NTEiXSxbIllVTCIsIjIwMjUtMDYtMjciLCJDREciLG51bGwsIlRTIiwiMTEwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 18:35"
+          },
+          "arrival_airport": {
+            "name": "Montréal-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-27 19:57"
+          },
+          "duration": 82,
+          "airplane": "Embraer 195 E2",
+          "airline": "Porter Airlines",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/PD.png",
+          "travel_class": "Economy",
+          "flight_number": "PD 129",
+          "ticket_also_sold_by": [
+            "Air Transat"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Free Wi-Fi",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 70 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Montréal-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-27 21:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 10:20"
+          },
+          "duration": 410,
+          "airplane": "Airbus A330",
+          "airline": "Air Transat",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+          "travel_class": "Economy",
+          "flight_number": "TS 110",
+          "ticket_also_sold_by": [
+            "Porter Airlines"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 344 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 93,
+          "name": "Montréal-Pierre Elliott Trudeau International Airport",
+          "id": "YUL"
+        }
+      ],
+      "total_duration": 585,
+      "carbon_emissions": {
+        "this_flight": 415000
+      },
+      "price": 1410,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Full refund for cancellations",
+        "Free change, possible fare difference",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ3RRUkRFeU9YeFVVekV4TUJvTENQSE1DQkFDR2dORFFVUTRISENOcUFZPSIsW1siWVlaIiwiMjAyNS0wNi0yNyIsIllVTCIsbnVsbCwiUEQiLCIxMjkiXSxbIllVTCIsIjIwMjUtMDYtMjciLCJDREciLG51bGwsIlRTIiwiMTEwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 16:15"
+          },
+          "arrival_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2025-06-27 17:50"
+          },
+          "duration": 95,
+          "airplane": "Embraer ERJ-145",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 5884",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Carbon emissions estimate: 107 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Piedmont Airlines as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Philadelphia International Airport",
+            "id": "PHL",
+            "time": "2025-06-27 22:05"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 11:30"
+          },
+          "duration": 445,
+          "airplane": "Boeing 787",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 754",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 406 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 255,
+          "name": "Philadelphia International Airport",
+          "id": "PHL"
+        }
+      ],
+      "total_duration": 795,
+      "carbon_emissions": {
+        "this_flight": 515000
+      },
+      "price": 1510,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ3hCUVRVNE9EUjhRVUUzTlRRYUN3alJtd2tRQWhvRFEwRkVPQnh3OU9FRyIsW1siWVlaIiwiMjAyNS0wNi0yNyIsIlBITCIsbnVsbCwiQUEiLCI1ODg0Il0sWyJQSEwiLCIyMDI1LTA2LTI3IiwiQ0RHIixudWxsLCJBQSIsIjc1NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 18:29"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-06-27 19:29"
+          },
+          "duration": 120,
+          "airplane": "Embraer 175",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 4530",
+          "ticket_also_sold_by": [
+            "Iberia",
+            "Finnair",
+            "British Airways"
+          ],
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 105 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Republic Airways as American Eagle"
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-06-27 21:30"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 12:40"
+          },
+          "duration": 490,
+          "airplane": "Boeing 787",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 150",
+          "ticket_also_sold_by": [
+            "Iberia",
+            "Finnair",
+            "British Airways"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 407 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 121,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 731,
+      "carbon_emissions": {
+        "this_flight": 513000
+      },
+      "price": 1635,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Fare non-refundable, taxes may be refundable",
+        "No ticket changes",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ3hCUVRRMU16QjhRVUV4TlRBYUN3aWwvUWtRQWhvRFEwRkVPQnh3ektrSCIsW1siWVlaIiwiMjAyNS0wNi0yNyIsIk9SRCIsbnVsbCwiQUEiLCI0NTMwIl0sWyJPUkQiLCIyMDI1LTA2LTI3IiwiQ0RHIixudWxsLCJBQSIsIjE1MCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 14:30"
+          },
+          "arrival_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2025-06-27 16:10"
+          },
+          "duration": 100,
+          "airplane": "Embraer 175",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 3637",
+          "ticket_also_sold_by": [
+            "Air Canada"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 86 kg"
+          ],
+          "plane_and_crew_by": "Republic Airways/United Express"
+        },
+        {
+          "departure_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2025-06-27 22:20"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 10:40"
+          },
+          "duration": 440,
+          "airplane": "Boeing 777",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 924",
+          "ticket_also_sold_by": [
+            "Air Canada"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 417 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 370,
+          "name": "Dulles International Airport",
+          "id": "IAD"
+        }
+      ],
+      "total_duration": 910,
+      "carbon_emissions": {
+        "this_flight": 504000
+      },
+      "price": 1671,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ3hWUVRNMk16ZDhWVUU1TWpRYUN3aThtUW9RQWhvRFEwRkVPQnh3bzc0SCIsW1siWVlaIiwiMjAyNS0wNi0yNyIsIklBRCIsbnVsbCwiVUEiLCIzNjM3Il0sWyJJQUQiLCIyMDI1LTA2LTI3IiwiTEhSIixudWxsLCJVQSIsIjkyNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 16:00"
+          },
+          "arrival_airport": {
+            "name": "Montréal-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-27 17:20"
+          },
+          "duration": 80,
+          "airplane": "Airbus A321neo",
+          "airline": "Air Transat",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+          "travel_class": "Economy",
+          "flight_number": "TS 451",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 55 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Montréal-Pierre Elliott Trudeau International Airport",
+            "id": "YUL",
+            "time": "2025-06-27 18:50"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 07:45"
+          },
+          "duration": 415,
+          "airplane": "Airbus A330",
+          "airline": "Air Transat",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+          "travel_class": "Economy",
+          "flight_number": "TS 250",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 344 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 90,
+          "name": "Montréal-Pierre Elliott Trudeau International Airport",
+          "id": "YUL"
+        }
+      ],
+      "total_duration": 585,
+      "carbon_emissions": {
+        "this_flight": 400000
+      },
+      "price": 1675,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Full refund for cancellations",
+        "Free change, possible fare difference",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ3RVVXpRMU1YeFVVekkxTUJvTENQV2JDaEFDR2dORFFVUTRISENKd0FjPSIsW1siWVlaIiwiMjAyNS0wNi0yNyIsIllVTCIsbnVsbCwiVFMiLCI0NTEiXSxbIllVTCIsIjIwMjUtMDYtMjciLCJDREciLG51bGwsIlRTIiwiMjUwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 21:05"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 10:30"
+          },
+          "duration": 445,
+          "airplane": "Airbus A321neo",
+          "airline": "Air Transat",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+          "travel_class": "Economy",
+          "flight_number": "TS 188",
+          "ticket_also_sold_by": [
+            "Porter Airlines"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 399 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 445,
+      "carbon_emissions": {
+        "this_flight": 400000
+      },
+      "price": 1675,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/TS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Full refund for cancellations",
+        "Free change, possible fare difference",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZVVXpFNE9Cb0xDUFdiQ2hBQ0dnTkRRVVE0SEhDSndBYz0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJDREciLG51bGwsIlRTIiwiMTg4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 22:00"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 10:15"
+          },
+          "duration": 435,
+          "airplane": "Boeing 777",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 98",
+          "ticket_also_sold_by": [
+            "American",
+            "Finnair"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat USB outlet",
+            "On-demand video",
+            "Carbon emissions estimate: 412 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 435,
+      "carbon_emissions": {
+        "this_flight": 412000
+      },
+      "price": 2128,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1JDUVRrNEdnc0k2ZjBNRUFJYUEwTkJSRGdjY08zRENRPT0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJMSFIiLG51bGwsIkJBIiwiOTgiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 22:30"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 10:40"
+          },
+          "duration": 430,
+          "airplane": "Boeing 787",
+          "airline": "Virgin Atlantic",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VS.png",
+          "travel_class": "Economy",
+          "flight_number": "VS 148",
+          "ticket_also_sold_by": [
+            "Air France",
+            "Delta",
+            "KLM"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 356 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 430,
+      "carbon_emissions": {
+        "this_flight": 356000
+      },
+      "price": 2405,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VS.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZXVXpFME9Cb0xDSlBXRGhBQ0dnTkRRVVE0SEhEVDRnbz0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJMSFIiLG51bGwsIlZTIiwiMTQ4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 18:20"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 06:35"
+          },
+          "duration": 435,
+          "airplane": "Boeing 777",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 854",
+          "ticket_also_sold_by": [
+            "Lufthansa"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 385 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 435,
+      "carbon_emissions": {
+        "this_flight": 385000
+      },
+      "price": 2610,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZCUXpnMU5Cb0xDS2YyRHhBQ0dnTkRRVVE0SEhDYjJBcz0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJMSFIiLG51bGwsIkFDIiwiODU0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 20:40"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 10:10"
+          },
+          "duration": 450,
+          "airplane": "Boeing 777",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 872",
+          "ticket_also_sold_by": [
+            "Lufthansa",
+            "Brussels Airlines"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 393 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 450,
+      "carbon_emissions": {
+        "this_flight": 394000
+      },
+      "price": 2620,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+      "extensions": [
+        "1 checked bag up to 23 kg included",
+        "Full refund for cancellations",
+        "Free change, possible fare difference",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZCUXpnM01ob0xDSS8rRHhBQ0dnTkRRVVE0SEhENTNRcz0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJDREciLG51bGwsIkFDIiwiODcyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 23:35"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 11:50"
+          },
+          "duration": 435,
+          "airplane": "Boeing 777",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 858",
+          "ticket_also_sold_by": [
+            "Lufthansa"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 385 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 435,
+      "carbon_emissions": {
+        "this_flight": 385000
+      },
+      "price": 2690,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZCUXpnMU9Cb0xDT2UwRUJBQ0dnTkRRVVE0SEhDTWhndz0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJMSFIiLG51bGwsIkFDIiwiODU4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 20:30"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 08:35"
+          },
+          "duration": 425,
+          "airplane": "Boeing 787",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Economy",
+          "flight_number": "AC 856",
+          "ticket_also_sold_by": [
+            "Lufthansa"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 314 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 425,
+      "carbon_emissions": {
+        "this_flight": 315000
+      },
+      "price": 3066,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZCUXpnMU5ob0xDT1hhRWhBQ0dnTkRRVVE0SEhEeTNRMD0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJMSFIiLG51bGwsIkFDIiwiODU2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 18:05"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 06:15"
+          },
+          "duration": 430,
+          "airplane": "Boeing 787-10",
+          "airline": "British Airways",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+          "travel_class": "Economy",
+          "flight_number": "BA 92",
+          "ticket_also_sold_by": [
+            "American",
+            "Finnair"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 296 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 430,
+      "carbon_emissions": {
+        "this_flight": 296000
+      },
+      "price": 3652,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/BA.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1JDUVRreUdnc0l1YVFXRUFJYUEwTkJSRGdjY09xdEVBPT0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJMSFIiLG51bGwsIkJBIiwiOTIiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 21:20"
+          },
+          "arrival_airport": {
+            "name": "Heathrow Airport",
+            "id": "LHR",
+            "time": "2025-06-28 09:35"
+          },
+          "duration": 435,
+          "airplane": "Boeing 777",
+          "airline": "Air Canada",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+          "travel_class": "Business Class",
+          "flight_number": "AC 852",
+          "ticket_also_sold_by": [
+            "Lufthansa"
+          ],
+          "extensions": [
+            "Lie flat seat",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 1449 kg"
+          ],
+          "overnight": true,
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 435,
+      "carbon_emissions": {
+        "this_flight": 1450000
+      },
+      "price": 7802,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AC.png",
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZCUXpnMU1ob0xDTkhPTHhBQ0dnTkRRVVE0SEhEZytTST0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJMSFIiLG51bGwsIkFDIiwiODUyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Toronto Pearson International Airport",
+            "id": "YYZ",
+            "time": "2025-06-27 18:15"
+          },
+          "arrival_airport": {
+            "name": "Paris Charles de Gaulle Airport",
+            "id": "CDG",
+            "time": "2025-06-28 07:40"
+          },
+          "duration": 445,
+          "airplane": "Airbus A350",
+          "airline": "Air France",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+          "travel_class": "Business Class",
+          "flight_number": "AF 355",
+          "ticket_also_sold_by": [
+            "Delta"
+          ],
+          "extensions": [
+            "Lie flat seat",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 1386 kg"
+          ],
+          "overnight": true
+        }
+      ],
+      "total_duration": 445,
+      "carbon_emissions": {
+        "this_flight": 1387000
+      },
+      "price": 8437,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AF.png",
+      "extensions": [
+        "1 checked bag up to 23 kg included",
+        "Full refund for cancellations",
+        "Free change, possible fare difference",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJTW5sTFdqUlpjbTlXYlZGQlJIRlNRMEZDUnkwdExTMHRMUzB0TFMxdmVXRnZPRUZCUVVGQlIyaGtaMnBCVERkaGJFOUJFZ1ZCUmpNMU5Sb0xDSSsvTXhBQ0dnTkRRVVE0SEhDWjVpVT0iLFtbIllZWiIsIjIwMjUtMDYtMjciLCJDREciLG51bGwsIkFGIiwiMzU1Il1dXQ=="
+    }
+  ],
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "YYZ",
+            "name": "Toronto Pearson International Airport"
+          },
+          "city": "Toronto",
+          "country": "Canada",
+          "country_code": "CA",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWPEoHJ9ZdKzv94rrhqqT-m_aOLtacPBnX8s8Fd4GzxCQ8BmgveJ72xmyMfMSLarPprt6XrklbwK-_tw",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGhv7dw8LBbMsCv9kv586cMlQBryS9N16uYov7WUD7Mbc1QBEkyd7o1Tf1013cK2ZjzDJu2uYY3WF5w-iQkYUeu4tKg9DR1vjDtJ9vRcA"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "CDG",
+            "name": "Paris Charles de Gaulle Airport"
+          },
+          "city": "Paris",
+          "country": "France",
+          "country_code": "FR",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+        },
+        {
+          "airport": {
+            "id": "LHR",
+            "name": "Heathrow Airport"
+          },
+          "city": "London",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "CDG",
+            "name": "Paris Charles de Gaulle Airport"
+          },
+          "city": "Paris",
+          "country": "France",
+          "country_code": "FR",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGx8ii2KbSDdbdzfKye5oDN2bwBA6audqI7XUEf2iMRZezpn_ZbQe1ZIuvUSH-8XOMe958umDwSsAF1w",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyQJ-woNs0iO22mPSkmRUM5gcsTbbYeypQ6BBTeFxXr90mqTxZl57Fdq2CDuLn4w7cKZ8TT9_zZhOpF57rIpA7yWKQnqKvkKIf9Y-qJDo"
+        },
+        {
+          "airport": {
+            "id": "LHR",
+            "name": "Heathrow Airport"
+          },
+          "city": "London",
+          "country": "United Kingdom",
+          "country_code": "GB",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "YYZ",
+            "name": "Toronto Pearson International Airport"
+          },
+          "city": "Toronto",
+          "country": "Canada",
+          "country_code": "CA",
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWPEoHJ9ZdKzv94rrhqqT-m_aOLtacPBnX8s8Fd4GzxCQ8BmgveJ72xmyMfMSLarPprt6XrklbwK-_tw",
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGhv7dw8LBbMsCv9kv586cMlQBryS9N16uYov7WUD7Mbc1QBEkyd7o1Tf1013cK2ZjzDJu2uYY3WF5w-iQkYUeu4tKg9DR1vjDtJ9vRcA"
+        }
+      ]
+    }
+  ]
+}

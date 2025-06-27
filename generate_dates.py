@@ -1,3 +1,13 @@
+"""
+generate_weekends.py
+
+Generates a list of weekend date pairs (Friday to Monday) for a specified number of weeks.
+Useful for scheduling or batch-processing flight search queries across future weekends.
+
+Example:
+    get_weekend_dates(num_weeks=52)  # Returns 52 (depart, return) date pairs in YYMMDD format
+"""
+
 from datetime import datetime, timedelta
 
 def get_weekend_dates(num_weeks=4, today=None):
@@ -15,4 +25,8 @@ def get_weekend_dates(num_weeks=4, today=None):
 
         weekends.append((depart, return_))
 
+
     return weekends
+
+if __name__ == "__main__":
+    get_weekend_dates(num_weeks=52)

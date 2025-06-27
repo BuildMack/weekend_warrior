@@ -27,7 +27,7 @@ def test_weekday(weekday_name, weekday_index):
 
     assert depart.weekday() in [3, 4], f"Departure is not Thu/Fri"
     assert return_.weekday() == 0, f"Return is not Monday"
-    print(f"{weekday_name} test ✅ passed!\n")
+    print(f"{weekday_name} test passed!\n")
 
 def test_monday():    test_weekday("Monday", 0)
 def test_tuesday():   test_weekday("Tuesday", 1)
